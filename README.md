@@ -1,7 +1,7 @@
 # CrawlingStudy
 
 ### 개발환경
-* language : python, CSS
+* language : python
 * IDE : visual studio code
 
 ## 💻 과업
